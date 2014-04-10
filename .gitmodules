@@ -4,3 +4,6 @@
 [submodule "taskapp-webapp"]
 	path = taskapp-webapp
 	url = https://github.com/note109/taskapp-webapp.git
+[submodule "taskapp-cms"]
+	path = taskapp-cms
+	url = https://github.com/note109/taskapp-cms.git
