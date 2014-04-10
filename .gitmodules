@@ -1,0 +1,6 @@
+[submodule "taskapp-api"]
+	path = taskapp-api
+	url = https://github.com/note109/taskapp-api.git
+[submodule "taskapp-webapp"]
+	path = taskapp-webapp
+	url = https://github.com/note109/taskapp-webapp.git
